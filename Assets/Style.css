@@ -1,0 +1,191 @@
+* {
+    margin: 0;
+    padding: 0;
+
+
+}
+
+.cajaprincipal {
+
+    display: flex;
+}
+
+.cajaizquierda {
+    width: 25%;
+    background-color: #fff;
+    flex-direction: column;
+    height: 100vh;
+
+
+}
+
+.cajaizquierda li {
+    list-style: none;
+    display: flex;
+    
+
+}
+
+.cajaizquierda img {
+
+    width: 50px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    margin: 10px;
+    border: 1px solid #bec1bb;
+  
+
+}
+
+
+
+
+
+.cajaderecha {
+    width: 75%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #E8EBE4;
+
+}
+
+.cajaderecha img {
+    width: 100%;
+    margin: 5px;
+
+
+}
+
+.centrar {
+    width: 250px;
+}
+
+.maria {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #bec1bb ;
+    padding: 5px;
+
+
+}
+
+.maria p {
+
+    font-size: 10px;
+    text-align: center;
+
+}
+
+.center {
+
+    display: flex;
+    align-items: center;
+
+}
+
+.boton {
+    padding: 30px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    border-bottom: 1px solid #bec1bb ;
+   
+   
+
+
+
+}
+
+.boton button {
+    display: flex;
+    background-color: #A491D2;
+    color: #fff;
+    padding: 1em 3em;
+    font-family: 'Roboto', sans-serif;
+    font-size: medium;
+    border: 0;
+  
+}
+
+.iconos{
+
+  
+    margin-right: 30px;
+   
+}
+
+.fa-regular{
+    margin-right: 10px;
+
+}
+
+.espacio1{
+  
+    width: 100%;
+    display: flex;
+    padding-top: 5px;
+    padding-bottom: 5px;
+   border-bottom: 1px solid #bec1bb ;
+   font-family: 'Roboto', sans-serif;
+   
+}
+
+.espacio{
+
+    font-family: 'Roboto', sans-serif;
+    font-size: small;
+
+}
+
+.espacio p2{
+
+    font-family: 'Roboto', sans-serif;
+    font-size: medium;
+
+}
+
+.espacio1 p1{
+
+    font-family: 'Roboto', sans-serif;
+    font-size: medium;
+
+}
+
+.espacio1 p{
+
+    font-size: 12px;
+
+
+}
+
+
+.general{
+
+    margin-top: 20px;
+}
+
+.cajaderecha p3{
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+    font-weight: bolder;
+
+    
+}
+
+.cajaderecha p4{
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    width: 500px;
+    text-align: center;
+    margin-top: -15px;
+  
+}
+
+
